@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwelveApp", "TwelveApp\TwelveApp.csproj", "{7E7F142F-FECB-47D3-A120-47DF61B815C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E7F142F-FECB-47D3-A120-47DF61B815C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7F142F-FECB-47D3-A120-47DF61B815C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7F142F-FECB-47D3-A120-47DF61B815C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7F142F-FECB-47D3-A120-47DF61B815C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E032F298-11BF-4904-8CA4-94AA3A5999F9}
+	EndGlobalSection
+EndGlobal
